@@ -1,0 +1,8 @@
+Sitemap: https://essentialmortgages.co.nz/page-sitemap.xml
+Sitemap: https://essentialmortgages.co.nz/post-sitemap.xml
+Sitemap: https://essentialmortgages.co.nz/category-sitemap.xml
+
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/

@@ -1,0 +1,36 @@
+[17-May-2024 23:31:03 UTC] INFO: Transfer started. Creating archives of files... 
+[17-May-2024 23:31:03 UTC] INFO: Updating transfer id. 
+[17-May-2024 23:31:03 UTC] INFO: Updating transfer psk. 
+[17-May-2024 23:31:47 UTC] INFO: Critical Transfer Error 
+[17-May-2024 23:31:47 UTC] ERROR: Array
+(
+    [type] => 1
+    [message] => Allowed memory size of 268435456 bytes exhausted (tried to allocate 103483984 bytes)
+    [file] => /var/www/vhosts/essentialmortgages.co.nz/httpdocs/wp-content/plugins/siteground-migrator/core/Files_Service/Files_Service.php
+    [line] => 396
+)
+ 
+[17-May-2024 23:32:43 UTC] INFO: Transfer started. Creating archives of files... 
+[17-May-2024 23:32:43 UTC] INFO: Updating transfer id. 
+[17-May-2024 23:32:43 UTC] INFO: Updating transfer psk. 
+[17-May-2024 23:33:40 UTC] INFO: Critical Transfer Error 
+[17-May-2024 23:33:40 UTC] ERROR: Array
+(
+    [type] => 1
+    [message] => Allowed memory size of 268435456 bytes exhausted (tried to allocate 103483984 bytes)
+    [file] => /var/www/vhosts/essentialmortgages.co.nz/httpdocs/wp-content/plugins/siteground-migrator/core/Files_Service/Files_Service.php
+    [line] => 396
+)
+ 
+[18-May-2024 06:50:10 UTC] INFO: Transfer started. Creating archives of files... 
+[18-May-2024 06:50:10 UTC] INFO: Updating transfer id. 
+[18-May-2024 06:50:10 UTC] INFO: Updating transfer psk. 
+[18-May-2024 06:50:29 UTC] INFO: Critical Transfer Error 
+[18-May-2024 06:50:29 UTC] ERROR: Array
+(
+    [type] => 1
+    [message] => Allowed memory size of 268435456 bytes exhausted (tried to allocate 103483984 bytes)
+    [file] => /var/www/vhosts/essentialmortgages.co.nz/httpdocs/wp-content/plugins/siteground-migrator/core/Files_Service/Files_Service.php
+    [line] => 396
+)
+ 

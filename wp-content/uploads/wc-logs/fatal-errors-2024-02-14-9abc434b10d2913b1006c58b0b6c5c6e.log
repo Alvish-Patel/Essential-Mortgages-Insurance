@@ -1,0 +1,84 @@
+2024-02-14T10:43:53+00:00 CRITICAL Uncaught Error: Class "Elementor\App\App" not found in D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php:750
+Stack trace:
+#0 D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#1 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#2 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\essentialmortgages\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\essentialmortgages\wp-settings.php(643): do_action('init')
+#5 D:\xampp\htdocs\essentialmortgages\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\essentialmortgages\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\essentialmortgages\wp-admin\admin.php(34): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\essentialmortgages\wp-admin\plugins.php(10): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php on line 750
+
+2024-02-14T10:44:04+00:00 CRITICAL Uncaught Error: Class "Elementor\App\App" not found in D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php:750
+Stack trace:
+#0 D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#1 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#2 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\essentialmortgages\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\essentialmortgages\wp-settings.php(643): do_action('init')
+#5 D:\xampp\htdocs\essentialmortgages\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\essentialmortgages\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\essentialmortgages\wp-admin\admin.php(34): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\essentialmortgages\wp-admin\plugins.php(10): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php on line 750
+
+2024-02-14T10:44:16+00:00 CRITICAL Uncaught Error: Class "Elementor\App\App" not found in D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php:750
+Stack trace:
+#0 D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#1 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#2 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\essentialmortgages\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\essentialmortgages\wp-settings.php(643): do_action('init')
+#5 D:\xampp\htdocs\essentialmortgages\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\essentialmortgages\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\essentialmortgages\wp-admin\admin.php(34): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\essentialmortgages\wp-admin\index.php(10): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php on line 750
+
+2024-02-14T10:44:30+00:00 CRITICAL Uncaught Error: Class "Elementor\App\App" not found in D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php:750
+Stack trace:
+#0 D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#1 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#2 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\essentialmortgages\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\essentialmortgages\wp-settings.php(643): do_action('init')
+#5 D:\xampp\htdocs\essentialmortgages\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\essentialmortgages\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\essentialmortgages\wp-admin\admin.php(34): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\essentialmortgages\wp-admin\plugins.php(10): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php on line 750
+
+2024-02-14T10:44:32+00:00 CRITICAL Uncaught Error: Class "Elementor\App\App" not found in D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php:750
+Stack trace:
+#0 D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#1 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#2 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\essentialmortgages\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\essentialmortgages\wp-settings.php(643): do_action('init')
+#5 D:\xampp\htdocs\essentialmortgages\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\essentialmortgages\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\essentialmortgages\wp-admin\admin.php(34): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\essentialmortgages\wp-admin\themes.php(10): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\essentialmortgages\wp-content\plugins\elementor\includes\plugin.php on line 750
+
+2024-02-14T13:16:28+00:00 CRITICAL Uncaught Error: Class "Elementor\App\App" not found in D:\xampp\htdocs\essentialmortgages\wp-content\Plugins\elementor\includes\plugin.php:750
+Stack trace:
+#0 D:\xampp\htdocs\essentialmortgages\wp-content\Plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#1 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#2 D:\xampp\htdocs\essentialmortgages\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\essentialmortgages\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\essentialmortgages\wp-settings.php(643): do_action('init')
+#5 D:\xampp\htdocs\essentialmortgages\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\essentialmortgages\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\essentialmortgages\wp-admin\admin.php(34): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\essentialmortgages\wp-admin\plugins.php(10): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\essentialmortgages\wp-content\Plugins\elementor\includes\plugin.php on line 750
+
